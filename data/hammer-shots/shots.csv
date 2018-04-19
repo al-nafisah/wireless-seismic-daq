@@ -1,0 +1,10 @@
+shot,reference,adc_gain,signal_conditioning,link
+1,54.dat,on,off,USB
+2,55.dat,off,off,USB
+3,57.dat,on,off,XBee 0 m
+4,58.dat,on,off,XBee 10 m
+5,59.dat,on,off,XBee 5 m
+6,60.dat,on,off,XBee 50 m
+7,61.dat,on,off,XBee 25 m
+8,62.dat,off,on,XBee 0 m
+9,63.dat,off,on,XBee 50 m
