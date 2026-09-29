@@ -4,6 +4,12 @@
 %Where the wireless communication was tested and verified%
 %********************************************************%
 
+% Load the received signals (run from the analysis folder)
+freqs=[1 2 5 8 10 15 20 25 35 50 60 70 80 90];
+for i=1:length(freqs)
+    x{i}=sscanf(fileread(sprintf('../data/frequency-sweep/%dhz.txt',freqs(i))),'%f');
+end
+
 number_of_signals=14;
 index=1;  %for the subplot
 s=2;    %To decide in which figure the plot will be
