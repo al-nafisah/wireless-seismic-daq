@@ -48,6 +48,10 @@ The sketches target an Arduino Nano and use only the libraries that ship with th
 
 Abdullah Al-Nafisah, Faisal Al-Masri, Feesal Swaid, Mohanad Al-Mousa, and Mojtaba Al-Shams, advised by Dr. Alaa El-Din Hussein. Thanks to Dr. Hussain Alzaher, and to Ayman Al-Lehyani and Abdul Latif Ashadi of the Geophysics Department, who ran the field test with us.
 
+## License
+
+MIT, see [LICENSE](LICENSE). It covers the firmware, the analysis scripts, the data, the documents and the media.
+
 ## References
 
 - S. Savazzi et al., "Ultra-wide band sensor networks in oil and gas explorations," *IEEE Communications Magazine*, 51(4), 2013. [doi:10.1109/MCOM.2013.6495774](https://doi.org/10.1109/MCOM.2013.6495774)
